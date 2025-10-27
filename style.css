@@ -1,0 +1,14 @@
+/* --- Hide default 'app' page tab and 'Pages' header --- */
+section[data-testid="stSidebar"] div[data-testid="stSidebarNav"] ul li:first-child {
+    display: none !important;
+}
+
+section[data-testid="stSidebar"] div[data-testid="stSidebarNav"] > div:first-child {
+    display: none !important;
+}
+
+/* --- Sidebar dark theme --- */
+[data-testid="stSidebar"] {
+    background-color: #0E1117 !important;
+    padding-top: 15px;
+}
