@@ -1,0 +1,56 @@
+[
+  {
+    "Transaction_Amount": 69635000,
+    "Transaction_Date": "01-01-2024 00:00",
+    "Transaction_Time": "00:00:00",
+    "Transaction_Location": "Surkhandarya",
+    "Card_Type": "UzCard",
+    "Transaction_Currency": "UZS",
+    "Transaction_Status": "Successful",
+    "Previous_Transaction_Count": 35,
+    "Distance_Between_Transactions_km": 3481.19,
+    "Time_Since_Last_Transaction_min": 30,
+    "Authentication_Method": "2FA",
+    "Transaction_Velocity": 5,
+    "Transaction_Category": "Transfer",
+    
+    "Log_Transaction_Amount": 18.05877789,
+    "Velocity_Distance_Interact": 17405.95
+  },
+  {
+    "Transaction_Amount": 53486000,
+    "Transaction_Date": "01-01-2024 00:01",
+    "Transaction_Time": "00:01:00",
+    "Transaction_Location": "Namangan",
+    "Card_Type": "UzCard",
+    "Transaction_Currency": "USD",
+    "Transaction_Status": "Successful",
+    "Previous_Transaction_Count": 35,
+    "Distance_Between_Transactions_km": 4341.04,
+    "Time_Since_Last_Transaction_min": 1073,
+    "Authentication_Method": "Biometric",
+    "Transaction_Velocity": 9,
+    "Transaction_Category": "Cash Out",
+   
+    "Log_Transaction_Amount": 17.79493051,
+    "Velocity_Distance_Interact": 39069.36
+  },
+  {
+    "Transaction_Amount": 24262000,
+    "Transaction_Date": "01-01-2024 00:02",
+    "Transaction_Time": "00:02:00",
+    "Transaction_Location": "Navoiy",
+    "Card_Type": "Humo",
+    "Transaction_Currency": "UZS",
+    "Transaction_Status": "Reversed",
+    "Previous_Transaction_Count": 25,
+    "Distance_Between_Transactions_km": 4780.35,
+    "Time_Since_Last_Transaction_min": 132,
+    "Authentication_Method": "2FA",
+    "Transaction_Velocity": 7,
+    "Transaction_Category": "Cash In",
+
+    "Log_Transaction_Amount": 17.00442194,
+    "Velocity_Distance_Interact": 33462.45
+  }
+]
